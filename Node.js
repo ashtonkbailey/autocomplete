@@ -1,6 +1,7 @@
 class Node {
   constructor() {
-    // what instance properties shall we set?
+    this.children = {};
+    this.completeWord = null;
   }
 }
 

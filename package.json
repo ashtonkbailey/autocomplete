@@ -1,0 +1,19 @@
+{
+  "name": "@ashtonkb/autocomplete",
+  "version": "1.1.0",
+  "description": "prefix trie auto complete",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashtonkbailey/autocomplete.git"
+  },
+  "author": "Ashton Bailey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashtonkbailey/autocomplete/issues"
+  },
+  "homepage": "https://github.com/ashtonkbailey/autocomplete#readme"
+}
